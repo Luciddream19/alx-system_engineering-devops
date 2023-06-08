@@ -1,1 +1,1 @@
-i am navigating shell
+ navigating shell_Project bash
